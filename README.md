@@ -1,2 +1,2 @@
 # fredegarius
-Manuscripts of the chronicles of Fredegarius
+Editing the manuscripts of the chronicles of Fredegarius in MS Bern 318.
