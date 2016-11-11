@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chronicle of Fredegarius</title>
+            <author>Fredegarius</author>
+            <editor>Stephanie Neville</editor>
+            <editor>Hannah Nguyen</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Diplomatic edition of  Bern 318 MS.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>INCIPIUNT CAPITULA CHRONICI HIERONIMI EXCARPSUM</p>
+            <table>
+               <row n="1">
+                  <cell><num>I</num></cell>
+                  <cell>De regnum <rs type="ethnic"><choice><abbr>assrriorum</abbr><expan>assyrriorum</expan></choice></rs></cell>
+               </row>
+               <row n="2">
+                  <cell><num>II</num></cell>
+                  <cell>De natiuitate <persName><choice><abbr>abraha</abbr><expan>abrahae</expan></choice></persName> et <choice><abbr>genr</abbr><expan>generis</expan></choice> <choice><abbr>ne</abbr><expan>unknown</expan></choice> eius <choice><abbr>usq</abbr><expan>usque</expan></choice>. ad <choice><abbr>morsen</abbr><expan>unknown</expan></choice></cell>
+               </row>
+               <row n="3">
+                  <cell><num>III</num></cell>
+                  <cell>De <choice><abbr>morsen</abbr><expan>morsen</expan></choice> et <rs type="ethnic">iudices</rs> super <choice><abbr>irt</abbr><expan>unknown</expan></choice>.</cell>
+               </row>
+               <row n="4">
+                  <cell><num>IIII</num></cell>
+                  <cell>De captiuitate <placeName><w>tro<unclear>i</unclear>ae</w></placeName> et <choice><abbr>iniciu</abbr><expan>inicium</expan></choice> <rs type="ethnic">francorum</rs> et <rs type="ethnic"><choice><abbr>romanr</abbr><expan>romanorum</expan></choice></rs></cell>
+               </row>
+               <row n="5">
+                  <cell><num>V</num></cell>
+                  <cell>De <rs type="ethnic">francione</rs> rege <rs type="ethnic"><choice><abbr>francoru</abbr><expan>francorum</expan></choice></rs> et <rs type="ethnic">francis</rs>.</cell>
+               </row>
+               <row n="6">
+                  <cell><num>VI</num></cell>
+                  <cell>De inicium ducum <rs type="ethnic">francorum</rs>.</cell>
+               </row>
+               <row n="7">
+                  <cell><num>VII</num></cell>
+                  <cell>De <rs type="ethnic">hebreis</rs> et eorum <rs type="ethnic">iudices</rs></cell>
+               </row>
+               <row n="8">
+                  <cell><num>VIII</num></cell>
+                  <cell>De captiuitatem <placeName>troiae</placeName> et <choice><abbr>egressione</abbr><expan>egressionem</expan></choice> exinde <persName>priamo</persName> et <persName>friga</persName> unde <rs type="ethnic">romani</rs> et <rs type="ethnic">franci</rs> fuerunt.</cell>
+               </row>
+               <row n="9">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="10">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="11">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="12">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="13">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="14">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="15">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="16">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="17">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="18">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="19">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="20">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="21">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="22">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="23">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="24">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="25">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="26">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="27">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="28">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="29">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="30">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="31">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row n="32">
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+            </table>
+         </div>
+      </body>
+  </text>
+</TEI>
