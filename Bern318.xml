@@ -56,53 +56,53 @@
                   <cell><num>VIII</num></cell>
                   <cell>De captiuitatem <placeName>troiae</placeName> et <choice><abbr>egressione</abbr><expan>egressionem</expan></choice> exinde <persName>priamo</persName> et <persName>friga</persName> unde <rs type="ethnic">romani</rs> et <rs type="ethnic">franci</rs> fuerunt.</cell>
                </row>
-               <row n="9">
-                  <cell></cell>
-		       <cell></cell>
+		<row n="9">
+                  <cell>VIIII</cell>
+                  <cell>De inicium regis <rs type="ethnic">romanorum</rs>.</cell>
                </row>
                <row n="10">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>X</cell>
+                  <cell>De aedificationem <rs type="ethnic">chartagenis</rs> et supputationem annorum ad <persName>adam</persName> usque ad <persName>moysen</persName>.</cell>
                </row>
                <row n="11">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XI</cell>
+                  <cell>De regibus <rs type="ethnic">hebreorum</rs> irt</cell>
                </row>
                <row n="12">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XII</cell>
+                  <cell>De regem <rs type="ethnic">latinorum</rs></cell>
                </row>
                <row n="13">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XIII</cell>
+                  <cell>De reges <rs type="ethnic">hebreorum</rs>.</cell>
                </row>
                <row n="14">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XIIII</cell>
+                  <cell>De <choice><abbr>iniciu</abbr><expan>inicium</expan></choice> nominis <placeName>rome</placeName> <choice><abbr>antequa</abbr><expan>antequam</expan></choice> condita fuisset.</cell>
                </row>
                <row n="15">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XV</cell>
+                  <cell>De <rs type="ethnic">assyriorum</rs> imperio distructum <choice><abbr>qd</abbr><expan>quod</expan></choice> stetit  <choice><abbr>an</abbr><expan>annis</expan></choice> mit <num>ccxlii</num>.</cell>
                </row>
                <row n="16">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XVI</cell>
+                  <cell>De <rs type="ethnic">latinorum</rs> et <placeName>roma</placeName> a <persName>romolo</persName> condita.</cell>
                </row>
                <row n="17">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XVII</cell>
+                  <cell>De <persName>nabuchodonosor</persName> rege et <choice><abbr>captiuitate</abbr><expan>captiuitatem</expan></choice> <rs type="ethnic">iudaeorum</rs>.</cell>
                </row>
                <row n="18">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XVIII</cell>
+                  <cell>De <choice><abbr>captiuitate</abbr><expan>captiuitatem</expan></choice> <placeName>trogae</placeName> et <sic>olrmpiadem</sic><corr>olympiadem</corr> primam.</cell>
                </row>
                <row n="19">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XVIIII</cell>
+                  <cell>De <rs type="ethnic">macedonum</rs> rege <persName><sic>phrlippo</sic><corr>phylippo</corr></persName>  <choice><abbr>msibus</abbr><expan>unknown</expan></choice> <choice><abbr>ann</abbr><expan>annis</expan></choice> conditus.</cell>
                </row>
                <row n="20">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell>XX</cell>
+                  <cell>De <persName>tarquinio prisco</persName> et numerum sentorum <sic>romcce</sic>.</cell>
                </row>
                <row n="21">
                   <cell></cell>
