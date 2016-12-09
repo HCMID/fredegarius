@@ -104,53 +104,65 @@
                   <cell>XX</cell>
                   <cell>De <persName>tarquinio prisco</persName> et numerum sentorum <sic>romcce</sic>.</cell>
                </row>
-               <row n="21">
-                  <cell></cell>
-                  <cell></cell>
+                <row n="21">
+                  <cell><num>XXI</num></cell>
+                  <cell>De captiuitatem <rs type="ethnic">iudaeorum</rs> ab <persName>abuchodonosor</persName> rege</cell>
                </row>
                <row n="22">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXII</num></cell>
+                  <cell>De <w>ampliata<del>m</del></w> <placeName><w>roma<del>m</del></w></placeName></cell>
                </row>
                <row n="23">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXIII</num></cell>
+                  <cell>De morte <persName>nabuchodonosor</persName> rege</cell>
                </row>
                <row n="24">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXIIII</num></cell>
+                  <cell>De regressione <rs type="ethnic">iudaeorum</rs>  <rs type="ethnic">perorrum</rs> <rs>persarum</rs> </cell>
                </row>
                <row n="25">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXV</num></cell>
+                  <cell>De regnum <persName>tarquini</persName> <placeName>romam</placeName>.</cell>
                </row>
                <row n="26">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXVI</num></cell>
+                  <cell>De <persName>nabuchodonosor</persName> subcuius <choice><abbr>tempr</abbr><expan>temporem</expan></choice> <persName><w>oloferni<del>i</del>s</w></persName> fuit.</cell>
                </row>
                <row n="27">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXVII</num></cell>
+                  <cell>De inicium <choice><abbr>consulu</abbr><expan>consulum</expan></choice> <placeName>romam</placeName> qui <choice><abbr>reger</abbr><expan>unknown</expan></choice> <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <choice><abbr>an</abbr><expan>annis</expan></choice> <num>CCCCLX</num></cell>
                </row>
                <row n="28">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XVIII</num></cell>
+                  <cell>De <persName>alexandro magno</persName> <rs type="ethnic">macedo</rs>.</cell>
                </row>
                <row n="29">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XVIIII</num></cell>
+                  <cell>De morte <persName>alexandri</persName> et <choice><abbr>translatu</abbr><expan>translatum</expan></choice> <choice><abbr>regnu</abbr><expan>regnum</expan></choice> eius in pluris <choice><abbr>regib</abbr><expan>regibus</expan></choice>.</cell>
                </row>
                <row n="30">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXX</num></cell>
+                  <cell>De <rs type="ethnic">romanis</rs> qui plures gentes superant consules habentes.</cell>
                </row>
                <row n="31">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXXI</num></cell>
+                  <cell>DE IMICIUM IMPERATORUM</cell>
                </row>
                <row n="32">
-                  <cell></cell>
-                  <cell></cell>
+                  <cell><num>XXXII</num></cell>
+                  <cell>De <persName>gaium iulium</persName> qui monarciam tenuit</cell>
+               </row>
+               <row n="33">
+                  <cell><num>XXXIII</num></cell>
+                  <cell>De <persName>octaui</persName> <choice><abbr>anu</abbr><expan>annum</expan></choice> qui <choice><abbr>monarcia</abbr><expan>monarciam</expan></choice> tenuit. In cuius <choice><abbr>tempr</abbr><expan>tempore</expan></choice> <choice><abbr>dns</abbr><expan>dominus</expan></choice> <choice><abbr>nt</abbr><expan>unknown</expan></choice> <persName><choice><abbr>i</abbr><expan>ihesus</expan></choice> <choice><abbr>x</abbr><expan>christus</expan></choice></persName>natus <choice><abbr>e</abbr><expan>est</expan></choice>. </cell>
+               </row>
+               <row n="34">
+                  <cell><num>XXXIIII</num></cell>
+                  <cell>De <choice><abbr>supputatione</abbr><expan>supputationem</expan></choice> <choice><abbr>annr</abbr><expan>annorum</expan></choice>  ab <persName>adam</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice>. ad <choice><abbr>pdicatione</abbr><expan>praedicationem</expan></choice> <persName><choice><abbr>xpi</abbr><expan>christi</expan></choice></persName></cell>
+               </row>
+               <row n="35">
+                  <cell><num>XXXV</num></cell>
+                  <cell>De imperium <persName>gagi</persName> et <persName>claudiae</persName>.</cell>
                </row>
             </table>
          </div>
