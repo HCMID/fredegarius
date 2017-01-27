@@ -164,6 +164,22 @@
                   <cell><num>XXXV</num></cell>
                   <cell>De imperium <persName>gagi</persName> et <persName>claudiae</persName>.</cell>
                </row>
+		     <row n="36">
+                  <cell><num>XXXVI</num></cell>
+                  <cell>De imperium <persName>neronis</persName> et <persName>uespasiani</persName> et <persName>tyti</persName>. et <choice><abbr>captiuit</abbr><expan>captiuitatem</expan></choice> <rs type="ethnic">iudeorum</rs></cell>
+               </row>
+               <row n="37">
+                  <cell><num>XXXVII</num></cell>
+                  <cell>De imperium <persName>domiciani</persName>. <persName>tragiani</persName>. <persName>atriani</persName>. <persName>tyti</persName>. <persName>luci</persName>.et <persName>comodi</persName>.</cell>
+               </row>
+               <row n="38">
+                  <cell><num>XXXVIII</num></cell>
+                  <cell>De impaerium <placeName>cologi</placeName> <persName>seueri</persName>. <persName>antonii</persName>. <persName>magriani</persName>. et <persName>aurili</persName>.</cell>
+               </row>
+               <row n="39">
+                  <cell><num>XXXVIIII</num></cell>
+                  <cell>De imperium <persName>alexandri. maximi</persName>. </cell>
+               </row>
             </table>
          </div>
       </body>
