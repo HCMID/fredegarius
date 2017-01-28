@@ -10,7 +10,6 @@
             <author>Fredegarius</author>
             <editor>Stephanie Neville</editor>
             <editor>Hannah Nguyen</editor>
-            <editor>Hanna Seariac</editor>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -179,9 +178,47 @@
                </row>
                <row n="39">
                   <cell><num>XXXVIIII</num></cell>
-                  <cell>De imperium <persName>alexandri. maximi</persName>. </cell>
+                  <cell>De imperium <persName>alexandri. maximi</persName>. <placeName>gurdiani.</placeName><persName>.decii. (galbae) et valeriani.</persName> qui in persas captivatur.</cell>
                </row>
-            </table>
+	       <row n="40">
+		  <cell><num>(xxx)XL</num></cell>
+		  <cell>De imperium <persName>gallieni. claudii. aurliani. et probi.</persName> </cell>
+	       </row>
+	       <row n="41">
+		  <cell><num>XLI</num></cell>
+		  <cell>De imperium <persName>constantani et filii sui et helena</persName></cell>
+	       </row>
+	       <row n="42">
+		  <cell><num>XLII</num></cell>
+		       <cell>De imperium <placeName>magnenti.</placeName> et obitum <persName>constantis</persName> et mortem <persName>flavium magnenti.</persName>  </cell>
+	       </row>
+	       <row n="43">
+		  <cell><num>XLIII</num></cell>
+		       <cell>De imperium <persName>cari. diocliciani. maximiani. severi.</persName></cell>
+	       </row>
+	       <row n="44">
+		  <cell><num>XLIIII</num></cell>
+		       <cell>De <placeName>gallium</placeName><persName>caesarem et antoniis monachii et constantius</persName> roma ingressu </cell>
+	       </row>
+	       <row n="45">
+		  <cell><num>XLV</num></cell>
+		  <cell>De imperium <persName>iuliani. valentini.</persName> (belarius pectavi ensis esse/belariu pectauinsisepse)</cell>
+	       </row>
+	       <row n="46">
+		  <cell><num>XLVI</num></cell>
+		  <cell>De adventum burgundionum in <placeName>galliis</placeName> et <persName>gothorum</persName></cell>
+	       </row>
+	       <row n="47">
+		  <cell><num>XLVII</num></cell>
+		  <cell>De imperium <persName>gratiani</persName> internitione(m) alamannorum</cell>
+	       </row>
+	       <row n="48">
+		  <cell><num>XLVIII</num></cell>
+		  <cell>De interitu <persName> valentis</persName> imperatoris agothis factum.</cell>
+	       </row> 
+	       </row>
+	
+		       </table>
          </div>
       </body>
   </text>
