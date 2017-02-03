@@ -211,11 +211,11 @@
 	       </row>
 	       <row n="47">
 		  <cell><num>XLVII</num></cell>
-		  <cell>De imperium <persName>gratiani</persName> internitione <rs Type="ethnic"><choice><abbr>alamannoru</abbr><expan>alamannorum</expan></choice></rs> et <rs Type="ethnic">gothorum</rs></cell>
+		  <cell>De imperium <persName>gratiani</persName> internitione <rs type="ethnic"><choice><abbr>alamannoru</abbr><expan>alamannorum</expan></choice></rs> et <rs Type="ethnic">gothorum</rs></cell>
 	       </row>
 	       <row n="48">
 		  <cell><num>XLVIII</num></cell>
-		       <cell>De interitu <persName>valentis</persName> imperatoris a <rs Type="ethnic">gothis</rs> factum.</cell>
+		       <cell>De interitu <persName>valentis</persName> imperatoris a <rs type="ethnic">gothis</rs> factum.</cell>
 	       </row> 
 		   
 	
