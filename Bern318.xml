@@ -203,21 +203,21 @@
 	       </row>
 	       <row n="45">
 		  <cell><num>XLV</num></cell>
-		       <cell>De imperium <persName>iuliani</persName>. <persName>valentini</persName>. et <persName><choice><abbr>helariu</abbr><expan>helarium</expan></choice></persName> <placeName><choice><abbr>pectaui</abbr><expan>pectauium</expan></choice></placeName> ensis <choice><abbr>epsc</abbr><expan>episcopum</expan></choice></cell>
-	       </row
+		  <cell>De imperium <persName>iuliani</persName>. <persName>valentini</persName>. et <persName><choice><abbr>helariu</abbr><expan>helarium</expan></choice></persName> <placeName><choice><abbr>pectaui</abbr><expan>pectauium</expan></choice></placeName> ensis <choice><abbr>epsc</abbr><expan>episcopum</expan></choice></cell>
+		    </row>
 	       <row n="46">
 		  <cell><num>XLVI</num></cell>
-		  <cell>De adventum burgundionum in <placeName>galliis</placeName> et <persName>gothorum</persName></cell>
+		  <cell>De adventum <rs type="ethnic">burgundionum</rs> in <rs type="ethnic">galliis</rs> </cell>
 	       </row>
 	       <row n="47">
 		  <cell><num>XLVII</num></cell>
-		  <cell>De imperium <persName>gratiani</persName> internitione(m) alamannorum</cell>
+		  <cell>De imperium <persName>gratiani</persName> internitione <rs Type="ethnic"><choice><abbr>alamannoru</abbr><expan>alamannorum</expan></choice></rs> et <rs Type="ethnic">gothorum</rs></cell>
 	       </row>
 	       <row n="48">
 		  <cell><num>XLVIII</num></cell>
-		  <cell>De interitu <persName> valentis</persName> imperatoris agothis factum.</cell>
+		       <cell>De interitu <persName>valentis</persName> imperatoris a <rs Type="ethnic">gothis</rs> factum.</cell>
 	       </row> 
-	    
+		   
 	
 		       </table>
          </div>
