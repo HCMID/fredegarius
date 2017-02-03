@@ -179,27 +179,27 @@
                </row>
                <row n="39">
                   <cell><num>XXXVIIII</num></cell>
-                  <cell>De imperium <persName>alexandri. maximi</persName>. <placeName>gurdiani.</placeName><persName>.decii. (galbae) et valeriani.</persName> qui in persas captivatur.</cell>
+		       <cell>De imperium <persName>alexandri</persName>. <persName>maximi</persName>. <persName>gurdiani</persName>. <persName>decii</persName>. <persName>galli</persName> et <persName>valeriani</persName>. qui in <rs type="ethnic">persas</rs> captivatur.</cell>
                </row>
 	       <row n="40">
-		  <cell><num>(xxx)XL</num></cell>
-		  <cell>De imperium <persName>gallieni. claudii. aurliani. et probi.</persName> </cell>
+		       <cell><num><w><del>XXX</del>XL</w></num></cell>
+		       <cell>De imperium <persName>gallieni</persName>. <persName>claudii</persName>. <persName>aurliani</persName>. et <persName>probi.</persName> </cell>
 	       </row>
 	       <row n="41">
 		  <cell><num>XLI</num></cell>
-		  <cell>De imperium <persName>constantani et filii sui et helena</persName></cell>
+		  <cell>De imperium <persName>constantini</persName> et filii sui et <persName>helena</persName></cell>
 	       </row>
 	       <row n="42">
 		  <cell><num>XLII</num></cell>
-		       <cell>De imperium <placeName>magnenti.</placeName> et obitum <persName>constantis</persName> et mortem <persName>flavium magnenti.</persName>  </cell>
+		  <cell>De imperium <persName>magnenti</persName>. et <choice><abbr>obitu</abbr><expan>obitum</expan></choice> <persName><choice><abbr>cstantis</abbr><expan>constantis</expan></choice></persName> et <choice><abbr>morte</abbr><expan>mortem</expan></choice> <choice><abbr>fris</abbr><expan>fratris</expan></choice> <persName>mgnenti</persName>.  </cell>
 	       </row>
 	       <row n="43">
 		  <cell><num>XLIII</num></cell>
-		       <cell>De imperium <persName>cari. diocliciani. maximiani. severi.</persName></cell>
+		  <cell>De imperium <persName>cari</persName>. <persName>diocliciani</persName>. <persName>maximiani</persName>. <persName>severi</persName>. </cell>
 	       </row>
 	       <row n="44">
 		  <cell><num>XLIIII</num></cell>
-		       <cell>De <placeName>gallium</placeName><persName>caesarem et antoniis monachii et constantius</persName> roma ingressu </cell>
+<!-- 		  <cell>De <placeName>gallium</placeName> caesarem et <persName><choice><abbr>antoniu</abbr><expan>antonium</expan></choice</persName> et <persName>constantius</persName> roma ingressu </cell>
 	       </row>
 	       <row n="45">
 		  <cell><num>XLV</num></cell>
