@@ -217,7 +217,11 @@
 		  <cell><num>XLVIII</num></cell>
 		       <cell>De interitu <persName>valentis</persName> imperatoris a <rs type="ethnic">gothis</rs> factum.</cell>
 	       </row> 
-		   
+	       <row n="49">
+		       <cell><num>XLVIIII</num></cell>
+		       <cell>De supputatione <choice><abbr>anno</abbr><expan>annorum</expan></choice> <persName>abadani</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName><choice><abbr>adoba</abbr><expan>adobam</expan></choice></placeName> valentur </cell>
+	       </row>
+	
 	
 		       </table>
          </div>
