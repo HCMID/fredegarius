@@ -219,13 +219,63 @@
 	       </row> 
 	       <row n="49">
 		       <cell><num>XLVIIII</num></cell>
-		       <cell>De supputatione <choice><abbr>anno</abbr><expan>annorum</expan></choice> <persName>abadani</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName><choice><abbr>adoba</abbr><expan>adobam</expan></choice></placeName> <persName>valentis</persName> </cell>
+		       <cell>De supputatione <choice><abbr>anno</abbr><expan>annorum</expan></choice> ab <persName>adam</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName><choice><abbr>adoba</abbr><expan>adobam</expan></choice></placeName> <persName>valentis</persName> </cell>
 	       </row>
 	       <row n="50">
 		       <cell><num>L</num></cell>
 		       <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName>theodosiae</persName> <persName>archadi</persName> honorii. <choice><abbr>it</abbr><expan>item</expan></choice> <persName>theodosiae</persName></cell>
-		</row>   	
+		</row>  
+		<row n="51">
+			<cell><num>LI</num></cell>
+			<cell>De <placeName><choice><abbr>gahisericu</abbr><expan>gahisericum</expan></choice></placeName> et <rs type="ethnic">uuandalis</rs> et <rs type="ethnic">gothis</rs>. <choice><abbr>u</abbr><expan>usque</expan></choice> <choice><abbr>patriciu</abbr><expan>patricium</expan></choice> et <rs type="ethnic">gothis</rs>.</cell>
+		</row>
+		    <row n="52">
+			    <cell><num>LII</num></cell>
+			    <cell>De imperium <persName>marciani</persName></cell>
+		</row>
+		    <row n="53">
+			    <cell><num>LIII</num></cell>
+			    <cell>De inruptione <rs type="ethnic">chunorum</rs> in <rs type="ethnic">galleis</rs> et <persName>aegic</persName></cell>
+		</row>
+		    <row n="54">
+			    <cell><num>LIIII</num></cell>
+			    <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName>auiti</persName>. <persName>martiniani</persName> et <persName>theoderico</persName> rege</cell>
+		</row>
+		    <row n="55">
+			    <cell><num>LV</num></cell>
+			    <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName>magioriani</persName>. et <persName>suaeues</persName> et <persName>theodorico</persName> rege</cell>
+		</row>
+		    <row n="56">
+			    <cell><num>LVI</num></cell>
+			    <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName>seueri</persName> <persName>antinii</persName>. et <rs type="ethnic">gothis</rs> in <placeName>italia</placeName> sub imperio <choice><abbr>csules</abbr><expan>consules</expan></choice></cell>
+		</row>
+		    <row n="57">
+			    <cell><num>LVII</num></cell>
+			    <cell>De <persName>theodorico</persName> rege <rs type="ethnic">gothorum</rs> in <placeName>italia</placeName> et <placeName>leone</placeName> imperatore.</cell>
+		</row>
+		    <row n="58">
+			    <cell><num>LVIII</num></cell>
+			    <cell>De <persName>chlodouio</persName> rege <rs type="ethnic"><choice><abbr>francoru</abbr><expan>francorum</expan></choice></rs> et <placeName>alarico</placeName>.</cell>
+		</row>
+		    <row n="59">
+			    <cell><num>LVIIII</num></cell>
+			    <cell>De obitium <persName>theoderici</persName></cell>
+		</row>
+		    <row n="60">
+			    <cell><num>LX</num></cell>
+			    <cell>De <persName>chrogo</persName> rege <rs type="ethnic">uuandelorum</rs> et <rs type="ethnic">uuandalis</rs>.</cell>
+		</row>
+		    <row n="61">
+			    <cell><num>LXI</num></cell>
+			    <cell>De <placeName><choice><sic>hildemerem</sic><corr>hildemarem</corr></choice></placeName> in quem regnum <rs type="ethnic">uuandalorum</rs> finiuit.</cell>
+		</row>
+		    <row n="62">
+			    <cell><num>LXII</num></cell>
+			    <cell>De <persName><w>iusti<del>ti</del>niano</w></persName> imperatore et bellissarium patricium.</cell>
+		</row>
+			    
 	</table>
+		 <p>expliciunt capitulae</p>
          </div>
       </body>
   </text>
