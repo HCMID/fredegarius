@@ -277,6 +277,18 @@
 	</table>
 		 <p>expliciunt capitulae</p>
          </div>
+	 <div n="15">
+		 <p><rs type="ethnic">Latinorum</rs> quartus decimus <persName>procas siluius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxiii</num>. postquem <persName>amulius siluius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xlii</num>. In illo tempore <placeName>roma</placeName> aparebus qui nunc sestus dicitur est condita.
+			 <persName>romulus</persName> et <persName>remus</persName> ipsam condiderunt. 
+			 <persName>remus</persName> retro pastoralea fabeorum oliduci occisus ob basili inpunitate magnas limuli multitudo coniungitur. 
+			 Anno ab urbe condita tria una uerginum pulcherrima cunctorum ad clamationem rapientium talasso duci <persName>romoli</persName> decernitur.
+			 Unde ad nuptiarum sollem pnitatib.
+			 talasso uulgo clamitat. cui tales nuptasit quae talassus meruit.
+			 In illo tempore prima captiuitas irt decim tribus <persName>asennaceribh</persName> regi <rs type="ethnic">chaledeorum</rs> translatisunt in montes <rs type="ethnic">medorum</rs> <choice><abbr>regnatuq</abbr><expan>regnatumque</expan></choice>.
+			 <choice><abbr>e</abbr><expan>est</expan></choice> in <placeName>samaria</placeName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>ccl</num>.
+			 
+		 </p>	 
+	      </div>
       </body>
   </text>
 </TEI>
