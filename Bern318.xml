@@ -219,15 +219,13 @@
 	       </row> 
 	       <row n="49">
 		       <cell><num>XLVIIII</num></cell>
-		       <cell>De supputatione <choice><abbr>anno</abbr><expan>annorum</expan></choice> <persName>abadani</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName><choice><abbr>adoba</abbr><expan>adobam</expan></choice></placeName> valentur </cell>
+		       <cell>De supputatione <choice><abbr>anno</abbr><expan>annorum</expan></choice> <persName>abadani</persName> <choice><abbr>usq</abbr><expan>usque</expan></choice> <placeName><choice><abbr>adoba</abbr><expan>adobam</expan></choice></placeName> <persName>valentis</persName> </cell>
 	       </row>
 	       <row n="50">
 		       <cell><num>L</num></cell>
-		       <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName><choice><abbr>Theodosic</abbr><expan>Theodosi</expan></choice>
-			       </cell></row>   
-	
-	
-		       </table>
+		       <cell>De <choice><abbr>imperiu</abbr><expan>imperium</expan></choice> <persName>theodosiae</persName> <persName>archadi</persName> honorii. <choice><abbr>it</abbr><expan>item</expan></choice> <persName>theodosiae</persName></cell>
+		</row>   	
+	</table>
          </div>
       </body>
   </text>
