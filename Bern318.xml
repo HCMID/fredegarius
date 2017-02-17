@@ -289,6 +289,28 @@
 			 
 		 </p>	 
 	      </div>
+	      <div n="16">
+		      <p><rs type="ethnic">Romanorum</rs> septimus decimus rex <persName>romulus</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxviii</num>.
+			      <persName>remus</persName> et <persName>romulus</persName> generant a matre <placeName>italia</placeName> <persName>romulus</persName> apud paludem <placeName>caprenus</placeName> moritur.
+			      Post quem per quinos dies senatores rem publicam egerunt.
+			      Unum tantum anno quod inter regnum appellatum est.
+			      Postea <persName>pompeius</persName> regnauit <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xli</num>.
+			      <persName>romulus</persName> primum milites sumpsit ex populo et nobilissimus senes centum.
+			      Ob aetatem senatores ob <choice><abbr>similitudine</abbr><expan>similitudinem</expan></choice> cure patris appellauit.
+			      Templa quoque et muros humani urbis struxerunt.
+			      <placeName>Saba</placeName> <rs type="ethnic">conbochiri</rs> regem captum uiuum exusit.
+			      <persName>Tulius hostilius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxiii</num>.
+			      Primus regnum <rs type="ethnic">romanorum</rs> purpura et fascibus usus est.
+			      Ac deinceps cum sua domo fulmine confrigauit. 
+			      <persName>Tullius <del>et</del> hostilius</persName> post longa pacem bella reparauit. 
+			      <persName>Albanus sextus</persName> gentes uicit et adiectum monte <placeName>caeneo</placeName> urbem apliauit.
+			      <rs type="ethnic">romanorum</rs> quartus <persName>ancus marcius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxiii</num>.
+			      <persName>Ancus marcius</persName> <placeName>auentinum montem</placeName> in <placeName>ianecolum</placeName> urbem addidit.
+			      In tempore procate <persName>siluiae</persName> <rs type="ethnic">latinorum</rs> rege <rs type="ethnic">hebreorum</rs>.
+			      Tunc prophetabat <persName>oseae</persName>. <persName>amos</persName>. <persName>esaiccs</persName>. <persName>ionas</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>lii</num>.
+			      quando <placeName>roma</placeName>
+		      </p>
+	      </div>
       </body>
   </text>
 </TEI>
