@@ -278,6 +278,7 @@
 		 <p>expliciunt capitulae</p>
          </div>
 	 <div n="15">
+		 <p><num>xv</num></p>
 		 <p><rs type="ethnic">Latinorum</rs> quartus decimus <persName>procas siluius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxiii</num>. postquem <persName>amulius siluius</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xlii</num>. In illo tempore <placeName>roma</placeName> aparebus qui nunc sestus dicitur est condita.
 			 <persName>romulus</persName> et <persName>remus</persName> ipsam condiderunt. 
 			 <persName>remus</persName> retro pastoralea fabeorum oliduci occisus ob basili inpunitate magnas limuli multitudo coniungitur. 
@@ -290,6 +291,7 @@
 		 </p>	 
 	      </div>
 	      <div n="16">
+		      <p><num>xvi</num></p>
 		      <p><rs type="ethnic">Romanorum</rs> septimus decimus rex <persName>romulus</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxviii</num>.
 			      <persName>remus</persName> et <persName>romulus</persName> generant a matre <placeName>italia</placeName> <persName>romulus</persName> apud paludem <placeName>caprenus</placeName> moritur.
 			      Post quem per quinos dies senatores rem publicam egerunt.
@@ -324,6 +326,7 @@
 		      </p>
 	      </div>
 	      <div n="17">
+		      <p><num>xvii</num></p>
 		      <p></p>   
 	      </div>
       </body>
