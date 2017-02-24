@@ -327,8 +327,23 @@
 	      </div>
 	      <div n="17">
 		      <p><num>xvii</num></p>
-		      <p></p>   
+		      <p>Anno tertio <persName>ioachim</persName> <persName>nabuchodonosor</persName> rex <placeName>babyloniae</placeName> <placeName>iudeam</placeName> capit.
+		      et indicionem <choice><abbr>sua</abbr><expan>suam</expan></choice> redactus plurimis <rs type="ethnic">iudaeorum</rs>.
+			Cum et iam <choice><abbr>parte</abbr><expan>partem</expan></choice> uasorum templi inuasit et tributarios fecisse <persName>ioachim</persName> fertur uictor ad patriam reuerteretur irt.
+			      Quando <placeName>roma</placeName> fuit condita <persName>azarias</persName> et <persName>manaim</persName> prophetabant.
+			      <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>x</num> postea <persName>uazeas</persName>.
+		      </p> 
 	      </div>
+	      <div n="18">
+		      <p><num>xviii</num></p>
+		      <p>
+			      <note place="left"><unclear>has sunt transposita</unclear></note>
+			      Anno decimo ad captiuitate <placeName>troiae</placeName> olympiadem primam <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>ccccv</num>.
+			      A primam olympiadem <rs type="ethnic">africanus</rs> temporibus <persName>ioatham</persName> rege <rs type="ethnic">he.breorum</rs> fuisse scripsit.
+			      Post <persName>uazea</persName> in <placeName>iudea</placeName> <sic>porophetabat</sic> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>viiii</num>.
+			      Tunc <persName>assenna</persName> <persName>ceribhisrt</persName> in captauitate ducti sunt memorauimus
+		      </p>
+		<div>	
       </body>
   </text>
 </TEI>
