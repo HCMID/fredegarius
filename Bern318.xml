@@ -341,9 +341,20 @@
 			      Anno decimo ad captiuitate <placeName>troiae</placeName> olympiadem primam <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>ccccv</num>.
 			      A primam olympiadem <rs type="ethnic">africanus</rs> temporibus <persName>ioatham</persName> rege <rs type="ethnic">he.breorum</rs> fuisse scripsit.
 			      Post <persName>uazea</persName> in <placeName>iudea</placeName> <sic>porophetabat</sic> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>viiii</num>.
-			      Tunc <persName>assenna</persName> <persName>ceribhisrt</persName> in captauitate ducti sunt memorauimus
+			      Tunc <persName>assenna</persName> <persName>ceribhisrt</persName> in captauitate ducti sunt memorauimus sub <persName>arifronem</persName> rege <rs type="ethnic">assyriorum</rs> regnum distructum.
+			      <persName>Sardana pallus</persName> eo tempore <placeName>tarsum</placeName> aque <placeName>ancealem</placeName> condidit et in proelium uictus ab <persName>arbocomedus</persName> semet incendio concremauit.
+			      primus ut supra memorauimus rex <placeName>macedonum</placeName> <persName>caranus</persName> regnauit <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxviii</num>.
+			      <placeName>aegrptiae</placeName> regem suum <persName>osorton</persName> <persName>ercole</persName> nominauerunt <persName>fifton</persName> <rs type="ethnic">argius</rs> mensuras et pondera primus. inuenit. 
+			      
+			      
 		      </p>
 		</div>	
+	      <div n="19">
+		      <p><num>xviiii</num></p>
+		      <p><rs type="ethnic">Macedonum</rs> <persName>phylippus</persName> reganuit <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxviii</num>.
+			      <persName>numa pompili</persName> post <num>ii</num> menses <choice><abbr>ann</abbr><expan>annis</expan></choice>. janarium et febreorum condidit. 
+			      cum <w>a<unclear>u</unclear>te<del>m</del> hoc decem menses tantem apud <rs type="ethnic">romanos</rs> fuissent.</p>
+	      </div>
       </body>
   </text>
 </TEI>
