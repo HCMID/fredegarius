@@ -353,8 +353,25 @@
 		      <p><num>xviiii</num></p>
 		      <p><rs type="ethnic">Macedonum</rs> <persName>phylippus</persName> reganuit <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxviii</num>.
 			      <persName>numa pompili</persName> post <num>ii</num> menses <choice><abbr>ann</abbr><expan>annis</expan></choice>. janarium et febreorum condidit. 
-			      cum <w>a<unclear>u</unclear>te<del>m</del></w> hoc decem menses tantem apud <rs type="ethnic">romanos</rs> fuissent.</p>
+			      cum <w>a<unclear>u</unclear>te<del>m</del></w> hoc decem menses tantem apud <rs type="ethnic">romanos</rs> fuissent. 
+			      Capitulum quoque afundamentis aedificauit. 
+			      <placeName>Seuilla</placeName> <choice><abbr>q</abbr><expan>que</expan></choice> et <placeName>eurofila</placeName> in <placeName>samuae</placeName> insignis habentur.
+			      <persName><choice><abbr>Nua</abbr><expan>Numa</expan></choice> pompilius</persName> cum finitimis bellum gessit.
+			      <persName>Olda</persName> mulier aput <rs type="ethnic">hebreos</rs> prophetabat.
+			      Postea <persName>suffonias</persName> <persName>hieremias</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxii</num>.
+			      Post quem <persName>ioaza</persName> menses <num>iii</num>.
+			      Post quem <persName>ioachim</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xii</num>.
+			      Post quem <persName>sedechias</persName> <choice><abbr>an</abbr><expan>annis</expan></choice> <num>xi</num>.
+		      </p>
 	      </div>
+	      <div n="20">
+		      <p><num>xx</num></p>
+		      <p><rs type="ethnic">Romanorum</rs> quintus <persName>tarquinius priscus</persName> <choice><abbr>ann</abbr><expan>annis</expan></choice> <num>xxxviii</num>.
+			      <placeName>Macedonum</placeName> a rebus <persName>tarquinius priscus</persName> <persName>cyram</persName> <placeName>romae</placeName> aedificauit.
+			      Numerum <choice><abbr>senatoru</abbr><expan>senatorum</expan></choice> ausit. <gap></gap>
+			      <rs type="ethnic">Romanus</rs> ludus instituuit muros <gap></gap> et <persName>clodecas</persName> ad extremum ab <persName>ancifiliis</persName> regnum eius sui ipse successerat.
+		      </p>
+	      </div>      
       </body>
   </text>
 </TEI>
