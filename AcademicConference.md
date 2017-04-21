@@ -127,8 +127,8 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 
 ## Ensuing Questions
 
-- Why are there on the margins?
+- Why are there phi on the margins?
 - How do we reconcile Fredegarius’ Latin-French mixture of languages?
-- Why does Fredegarius change some of Jerome’s dates?
+- Why does Fredegarius approach the text in this way?
 
 ---
