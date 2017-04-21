@@ -56,18 +56,13 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 ---
 
 
-![Section XV](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%20XV.png)
+![Romulus in Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/blob/master/romulussectionXVI.png)
 
 ---
 
 
-![Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/fred-45v.png)
+![Romulus in Paragraph](https://raw.githubusercontent.com/HCMID/fredegarius/blob/master/romulussectionXV.png)
 
-
----
-
-
-![Paragraph](https://raw.githubusercontent.com/HCMID/fredegarius/master/fred-50r.png)
 
 
 ---
