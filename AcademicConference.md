@@ -56,12 +56,12 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 ---
 
 
-![Romulus in Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/blob/master/romulussectionXVI.png)
+![Romulus in Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/romulussectionXVI.png)
 
 ---
 
 
-![Romulus in Paragraph](https://raw.githubusercontent.com/HCMID/fredegarius/blob/master/romulussectionXV.png)
+![Romulus in Paragraph](https://raw.githubusercontent.com/HCMID/fredegarius/master/romulussectionXV.png)
 
 
 
@@ -74,8 +74,9 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 - Passage of time between the first Olympiad and Fall of Troy
 
 
-![Section XVTOC](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%20XVIII%20TOC.png)
-![Section XV full view](https://raw.githubusercontent.com/HCMID/fredegarius/master/Sections%20XV%20and%20XVI%20TOC.png)
+![Geneva 49 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympyeargen49.png)
+![St. Gallen 298 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympyearcodvad.png)
+![Bern 318 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympiad.png)
 
 ---
 
