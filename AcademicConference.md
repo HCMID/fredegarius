@@ -85,7 +85,10 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 - Later hand refers to another source
 - "Haec sunt transposita"
 - "These things are moved"
+
 ![Haec sunt transposita](https://raw.githubusercontent.com/HCMID/fredegarius/master/upclosemarginText52v.png)
+![Margin Image](https://raw.githubusercontent.com/HCMID/fredegarius/master/marginText52v.png)
+![Corresponding X](https://raw.githubusercontent.com/HCMID/fredegarius/master/51v.png)
 ---
 
 ## Insight into Audience
