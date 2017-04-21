@@ -74,9 +74,9 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 - Passage of time between the first Olympiad and Fall of Troy
 
 
-![Geneva 49 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympyeargen49.png)
-![St. Gallen 298 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympyearcodvad.png)
-![Bern 318 Olympiad](https://raw.githubcontentuser.com/HCMID/fredegarius/master/firstolympiad.png)
+![Geneva 49 Olympiad](https://raw.githubusercontent.com/HCMID/fredegarius/master/firstolympyeargen49.png)
+![St. Gallen 298 Olympiad](https://raw.githubusercontent.com/HCMID/fredegarius/master/firstolympyearcodvad.png)
+![Bern 318 Olympiad](https://raw.githubusercontent.com/HCMID/fredegarius/master/firstolympiad.png)
 
 ---
 
