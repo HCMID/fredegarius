@@ -24,10 +24,10 @@ Stephanie Neville, Hannah Nguyen, Hanna Seariac
 
 ## Structure
 
-![Manuscript](https://raw.githubusercontent.com/HCMID/fredegarius/master/bern318imgs.csv)
+![Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/structuretableofcontents45v.png)
 
 
-![Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/bern318pages.csv)
+![Paragraph form](https://raw.githubusercontent.com/HCMID/fredegarius/master/structureparagraphs50v.png)
 
 ---
 
