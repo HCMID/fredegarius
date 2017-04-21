@@ -8,20 +8,23 @@
 
 - Summary of the history of the world
 - Likely used Jerome’s Chronicle as a source
-
+![Jerome's Chronicle](https://raw.githubusercontent.com/HCMID/fredegarius/master/gen49-69v-70r.png)
 ---
 
 ## Bern 318
 
 - C. 830
 - Consists of various texts
-- Chronicle of Fredegarius contains 4 books    
+- Chronicle of Fredegarius contains 4 books
+
+
 
 ---
     
 ## Structure
 
-- (images of manuscript)
+![Manuscript](https://raw.githubusercontent.com/HCMID/fredegarius/master/bern318imgs.csv)
+![Table of Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/bern318pages.csv)
 
 ---
     
@@ -37,7 +40,6 @@
 - Previous research on manuscripts of Chronicle of St. Jerome
 - Began with first Olympiad within texts for both projects
 - Comparing texts to look for differences related to time and probable sources used
-- (image of Chronicle of Jerome)
 
 ---
 
@@ -46,7 +48,9 @@
 - Organization from Table of Contents not entirely reflected within history
 - Example of Romulus and Remus
 - Otherwise follows closely
-(images)
+![Contents](https://raw.githubusercontent.com/HCMID/fredegarius/master/fred-45v.png)
+![Paragraph](https://raw.githubusercontent.com/HCMID/fredegarius/master/fred-50r.png)
+
 
 ---
 
@@ -55,6 +59,9 @@
 - Less commitment to mission as historian
 - Insight into genre
 - Passage of time between the first Olympiad and Fall of Troy
+![Section XV](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%20XV.png)
+![Section XVTOC](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%20XVIII%20TOC.png)
+![Section XV full view](https://raw.githubusercontent.com/HCMID/fredegarius/master/Sections%20XV%20and%20XVI%20TOC.png)
 
 ---
 
@@ -63,7 +70,7 @@
 - Scribe references use of a source
 - "Haec sunt transposita"
 - "These things are moved" 
-
+![Haec sunt transposita](https://raw.githubusercontent.com/HCMID/fredegarius/master/upclosemarginText52v.png)
 ---
 
 ## Insight into Audience 
@@ -77,8 +84,12 @@
 
 ## Reappearing Phi
 
-- Greek φ on the side of the page with nothing surrounding it (Image of 62r; close-up)
-- Greek φ on the side of the page perhaps written in a different hand with nothing surrounding it (Image of 68r; close-up)
+- Greek φ on the side of the page with nothing surrounding it 
+![Phi close-up](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%2062r%20Phi.png)
+![Phi full view](https://raw.githubusercontent.com/HCMID/fredegarius/master/Section%2062r%20full%20page%20view.png)
+- Greek φ on the side of the page perhaps written in a different hand with nothing surrounding it
+![Phi close-up1](https://raw.githubusercontent.com/HCMID/fredegarius/master/Second%20random%20phi.png)
+![Phi full view](https://raw.githubusercontent.com/HCMID/fredegarius/master/Full%20page%20view%20of%20second%20random%20phi.png)
 
 ---
 
